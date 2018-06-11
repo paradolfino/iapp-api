@@ -1,1 +1,12 @@
 
+[add user model and token-based authentication]
+### 11/06/2018[20:04 - 20:22]:
+* gen user model and implement has_secure_password
+* install jwt gem
+* install simple_command
+* authorize_api_request
+* set up authentication controller
+* add authenticate post route
+* authorize requests in application controller
+
+What's Next? work on testing authentication

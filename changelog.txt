@@ -4,3 +4,4 @@
 11/06/2018: 20:12 - 20:16:pool[authorize_api_request]
 11/06/2018: 20:16 - 20:20:pool[set up authentication controller]
 11/06/2018: 20:20 - 20:21:pool[add authenticate post route]
+11/06/2018: 20:21 - 20:22:pool[authorize requests in application controller]
