@@ -1,0 +1,1 @@
+11/06/2018: 20:04 - 20:06:pool[gen user model and implement has_secure_password]
